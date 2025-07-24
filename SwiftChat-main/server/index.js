@@ -22,7 +22,8 @@ const allowedOrigins=[
     "https://swiftchat-f.onrender.com",
     "https://swiftchat-oasr.onrender.com",
     "https://accounts.google.com",
-    "https://swift-chat-js1p.onrender.com"
+    "https://swift-chat-js1p.onrender.com",
+    "https://swift-chat-server-fij8.onrender.com"
 ];
 
 // const allowedOrigins=[
