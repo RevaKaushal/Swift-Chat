@@ -21,7 +21,8 @@ const allowedOrigins=[
     "https://mtp3b6l5-5173.inc1.devtunnels.ms/",
     "https://swiftchat-f.onrender.com",
     "https://swiftchat-oasr.onrender.com",
-    "https://accounts.google.com" 
+    "https://accounts.google.com",
+    "https://swift-chat-js1p.onrender.com"
 ];
 
 // const allowedOrigins=[
